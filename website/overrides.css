@@ -1,0 +1,7 @@
+:root {
+    --bs-primary-rgb: 39, 51, 58;
+}
+
+.navbar {
+    --bs-navbar-padding-y: 0.5rem;
+}
