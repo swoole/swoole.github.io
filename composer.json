@@ -1,0 +1,17 @@
+{
+    "name": "swoole/swoole.github.io",
+    "description": "Swoole's website, docs & blog mainly focused on the english-speaking community.",
+    "type": "project",
+    "require-dev": {
+        "couscous/couscous": "^1.10"
+    },
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "leocavalcante",
+            "email": "leo@cavalcante.dev"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
