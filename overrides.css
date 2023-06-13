@@ -1,5 +1,10 @@
 :root {
     --bs-primary-rgb: 39, 51, 58;
+    --bs-primary: #27333a;
+}
+
+.btn-primary {
+    --bs-btn-bg: var(--bs-primary);
 }
 
 .navbar {
