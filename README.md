@@ -1,3 +1,7 @@
+<p class="lead my-5">
+Open-Source High-Performance Application Server for PHP with Non-Blocking I/O & Asynchronous Coroutines. 
+</p>
+
 ```php
 <?php
 
@@ -14,7 +18,8 @@ $server->on('request', function ($req, $res) {
 $server->start();
 ```
 
-- [Swoole project](https://github.com/swoole)
-- [Official website 🇨🇳](https://www.swoole.com)
-- [Official wiki 🇨🇳](https://wiki.swoole.com)
-- [**English community website, docs & blog**](https://swoole.dev)
+<ul class="nav mt-5">
+	<li class="nav-item"><a class="btn btn-outline-primary" href="https://github.com/swoole"><i class="bi bi-github"/> Swoole project</a></li>
+	<li class="nav-item"><a class="btn btn-outline-primary" href="https://www.swoole.com">🇨🇳 Official website</a></li>
+	<li class="nav-item"><a class="btn btn-outline-primary" href="https://wiki.swoole.com">🇨🇳 Official wiki</a></li>
+</ul>
