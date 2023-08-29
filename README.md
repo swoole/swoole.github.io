@@ -19,7 +19,7 @@ $server->start();
 ```
 
 <ul class="nav mt-5">
-	<li class="nav-item"><a class="btn btn-outline-primary" href="https://github.com/swoole"><i class="bi bi-github"/> Swoole project</a></li>
+	<li class="nav-item"><a class="btn btn-outline-primary" href="https://github.com/swoole"><i class="bi bi-github"></i> Swoole project</a></li>
 	<li class="nav-item"><a class="btn btn-outline-primary" href="https://www.swoole.com">🇨🇳 Official website</a></li>
 	<li class="nav-item"><a class="btn btn-outline-primary" href="https://wiki.swoole.com">🇨🇳 Official wiki</a></li>
 </ul>
