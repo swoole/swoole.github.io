@@ -10,3 +10,7 @@
 .navbar {
     --bs-navbar-padding-y: 0.5rem;
 }
+
+.navbar-brand img {
+    height: 50px;
+}
