@@ -36,4 +36,4 @@ jobs:
       run: |
         git config --global user.name 'Leo Cavalcante'
         git config --global user.email 'leocavalcante@users.noreply.github.com'
-        make
+        ./vendor/bin/couscous deploy
