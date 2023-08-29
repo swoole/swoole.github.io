@@ -1,5 +1,5 @@
 <p class="lead my-5">
-A high-performance application server for PHP with non-blocking I/O & asynchronous coroutines. 
+Swoole is an event-driven, asynchronous, coroutine-based concurrency library with high performance for PHP.
 </p>
 
 ```php
@@ -23,3 +23,19 @@ $server->start();
 	<li class="nav-item"><a class="btn btn-outline-primary" href="https://www.swoole.com">🇨🇳 Official website</a></li>
 	<li class="nav-item"><a class="btn btn-outline-primary" href="https://wiki.swoole.com">🇨🇳 Official wiki</a></li>
 </ul>
+
+---
+
+## Getting started
+
+Swoole is distributed as any other PHP extension. It is easy to get started.
+
+### Installation
+```shell
+pecl install swoole
+```
+
+Or run with Docker:
+```shell
+docker run --rm phpswoole/swoole "php --ri swoole"
+```
