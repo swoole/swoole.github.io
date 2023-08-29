@@ -1,5 +1,5 @@
 <p class="lead my-5">
-Open-Source High-Performance Application Server for PHP with Non-Blocking I/O & Asynchronous Coroutines. 
+A high-performance application server for PHP with non-blocking I/O & asynchronous coroutines. 
 </p>
 
 ```php
