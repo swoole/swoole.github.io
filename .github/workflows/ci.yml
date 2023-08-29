@@ -33,4 +33,7 @@ jobs:
       run: composer install --prefer-dist --no-progress
 
     - name: Make
-      run: make
+      run: |
+        git config --global user.name 'Leo Cavalcante'
+        git config --global user.email 'leocavalcante@users.noreply.github.com'
+        make
